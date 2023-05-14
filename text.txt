@@ -2,4 +2,4 @@ html
 css
 javascript
 react
-python
+node js

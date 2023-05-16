@@ -2,4 +2,9 @@ html
 css
 javascript
 react
+<<<<<<< HEAD
 nodejs
+=======
+node js
+missing tech added mongo db
+>>>>>>> c5237daa6eb38ebf5a36366efe17affa032bbaf0
